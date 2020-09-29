@@ -8,9 +8,9 @@ The solutions to the questions have been grouped into folders based on their var
 
 Solutions to:
 
-- Question 1: [A](1-Finance/1a.docx) & [B](1-Finance/1b.docx)
+- Question 1 [A](1-Finance/1a.docx) & [B](1-Finance/1b.docx)
 
-- Question 2: [A](2-ComputerScience/2a) & [B](2-ComputerScience/main.go)
+- Question 2 [A](2-ComputerScience/2a) & [B](2-ComputerScience/main.go)
 
 - Question [3](3-Maths/)
 
