@@ -8,15 +8,15 @@ The solutions to the questions have been grouped into folders based on their var
 
 Solutions to:
 
-Question 1: [Here](https://github.com/chidieberejoel/ResearchAssistant-Crypto/tree/master/1-Finance)
+- Question 1: [A](1-Finance/1a.docx) & [B](1-Finance/1b.docx)
 
-Question 2: [Here](https://github.com/chidieberejoel/ResearchAssistant-Crypto/tree/master/2-ComputerScience)
+- Question 2: [A](2-ComputerScience/2a) & [B](2-ComputerScience/main.go)
 
-Question 3: [Here](https://github.com/chidieberejoel/ResearchAssistant-Crypto/tree/master/3-Maths)
+- Question [3](3-Maths/)
 
-### Installation and Set up
+## Installation and Set up
 
-[Question 2b](https://github.com/chidieberejoel/ResearchAssistant-Crypto/blob/master/2-ComputerScience/main.go) is written in Golang and to successfully run the file, Go should be installed. Get Go [here](https://golang.org/dl/)
+[Question 2b](2-ComputerScience/main.go) is written in Golang and to successfully run the file, Go should be installed. Get Go [here](https://golang.org/dl/)
 
 Navigate to a directory of your choice using a CLI and run the following commands in the order:
 
